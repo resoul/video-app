@@ -23,7 +23,3 @@ A lightweight tvOS Swift app using **AVPlayer** and **Texture (AsyncDisplayKit)*
 - CocoaPods or Swift Package Manager (for Texture)
 
 ---
-
-## 📂 Project Structure
-
-
