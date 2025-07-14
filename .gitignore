@@ -1,0 +1,61 @@
+# Xcode
+.DS_Store
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+
+# User-specific Xcode settings
+xcuserdata/
+
+# Derived data
+DerivedData/
+build/
+
+# SwiftPM
+.swiftpm/
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage (если используете)
+Carthage/
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Archives
+*.xcarchive
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.lock
+*.tmp
+*.temp
+
+# App-specific
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# tvOS-specific (всё уже покрыто Xcode/Swift)
+# Если есть ресурсы, генерируемые только под tvOS, можно указать:
+# tvOSBuild/
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+contents.xcplayground
+
+# SPM checkouts
+.checkouts/
